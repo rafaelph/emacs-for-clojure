@@ -26,7 +26,7 @@ first time.
    where Emacs looks for configuration files, and deleting these files
    and directories will ensure that you start with a clean slate.
 3. Download the Emacs
-   [configuration zip file](https://github.com/flyingmachine/emacs-for-clojure/archive/book1.zip)
+   [configuration zip file](https://github.com/rafaelph/emacs-for-clojure/raw/master/emacs-for-clojure-book1.zip)
    and unzip it. Its contents should be a folder,
    `emacs-for-clojure-book1`. Run `mv path/to/emacs-for-clojure-book1
    ~/.emacs.d`.
